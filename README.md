@@ -1,7 +1,7 @@
 ![img](https://github.com/Adsi7/Adsi7/blob/main/bild.jpg)
 # 👋 Adsaiyan Vasan 
 ## Skills
-💻 HTML, CSS
+💻 HTML, CSS</br>
 📱 JavaScript
 ⚛ Java
 #### Ich bin Student und Web Entwickler
