@@ -1,6 +1,9 @@
 ![img](https://github.com/Adsi7/Adsi7/blob/main/bild.jpg)
 # 👋 Adsaiyan Vasan 
-text text text t
+
+Ich bin Adsaiyan aus der Pfalz und beschäftige mich mit Webdesign und Entwicklung. Neben dem Studium lerne sehr gerne Sprachen und Frameworks wie React. Ich mag auch
+ui, ux und Design im Allgemeinen.
+
 ## Skills
 💻 HTML, CSS</br>
 📱 JavaScript</br>
